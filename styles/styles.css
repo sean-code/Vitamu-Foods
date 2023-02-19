@@ -64,6 +64,7 @@ body {
   opacity: 0.85;
   height: 50px;
   z-index: 12;
+  background-color: #e7dada;
 }
 
 .navbar-container {
@@ -443,8 +444,8 @@ body {
   font-size: 1.8rem;
   padding: 2.6rem;
   font-weight: 500;
-  color: #fff;
-  background: rgb(65, 65, 65);
+  color: #000;
+  background-color: #958c8cc1;
 }
 
 /* ......../ media query /.......... */
